@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sridharan
 
-<!--
-**sridharan-connect/sridharan-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 9 years of experience in backend engineering, distributed systems, event-driven architectures, and product development.
 
-Here are some ideas to get you started:
+## Tech Stack
+Java | Spring Boot | Kafka | Redis | MySQL | PostgreSQL | Cassandra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- User Service
+- URL Shortener
+- Mini Integration Platform (In Progress)
+
+## Interests
+Backend Engineering
+Distributed Systems
+System Design
+Microservices
