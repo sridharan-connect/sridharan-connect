@@ -6,9 +6,9 @@ Senior Software Engineer with 9 years of experience in backend engineering, dist
 Java | Spring Boot | Kafka | Redis | MySQL | PostgreSQL | Cassandra
 
 ## Projects
-- User Service
-- URL Shortener
 - Mini Integration Platform (In Progress)
+- URL Shortener
+- User Service
 
 ## Interests
 Backend Engineering
